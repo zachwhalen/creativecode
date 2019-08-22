@@ -1,0 +1,8 @@
+{
+	"one":["GREEE","RRRR","RWW","K-","UUUUUU","GHGH","G","MOR","GWA","AAA","AA","HM","RRA","AARR","AR"],
+	"two":["GREEE","RRRR","K","UUUUUU","GHGH","G","MOR","GWA","AAA","AA","OOO"],
+	"three":["GREEE","RRRR","-","UUUUUU","GHGH","G","MOR","GWA","AAA","EEEEEE"],
+	"four":["GREEE","RRRR","GH","UUUUUU","GHGH","G","GA","GWA","AAA","OOOOO","GGGHH","AAAAAAA","UUGGGHH","RRRL","UMMP","ORRPP","UUULLLLPPP"],
+	"punct":["!","!!!!","!!?"],
+	"origin": ["#one##two##three##four##punct#"]
+}
