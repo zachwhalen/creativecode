@@ -4,30 +4,12 @@ import nltk
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 
+# loading and blobifying the text file
 with open("birds_of_australia.txt") as f:
   bird_text = f.read()
 
 bird_blob = TextBlob(bird_text)
 
-poem_text = """
-This is just to say
-I have eaten
-the plums
-that were in
-the icebox,
-
-and which
-you were probably
-saving
-for breakfast.
-
-Forgive me
-they were delicious -- 
-so sweet
-and so cold.
-"""
-
-poem_blob = TextBlob(poem_text)
 
 singular_nouns = []
 plural_nouns = []
